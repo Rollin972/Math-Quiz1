@@ -1,0 +1,23 @@
+/*CSS for  Login Page */
+
+body {
+    background-color: aquamarine;
+    font-family: 'Dancing Script', cursive;
+    border: 3px crimson ridge;
+}
+
+.login_div1,
+.login_div2 {
+    background-color: burlywood;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#title {
+    font-family: 'Potta One', cursive;
+    margin-top: 50px;
+}
